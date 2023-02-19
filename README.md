@@ -48,4 +48,7 @@ User can see the aborted and previous launches in this page. Red flaged are abor
 
 ![image](https://user-images.githubusercontent.com/94931828/219980706-0c28ed4e-5927-4b3f-8103-708c5d393e67.png)
 
+## About the Project 👋🏼
+
+This project is made by using various packages and modules of node. MongoDb Atlas is used as cloud storage. Pagination and eveerthing is considerd. Google Cloud Platform's Run service is used to deploy the docker container. For security to structural, it is well maintained and scalable.  
 
